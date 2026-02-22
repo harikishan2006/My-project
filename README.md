@@ -1,12 +1,11 @@
-# React + Vite
+💼 About Me
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎓 I am a 3rd-year Computer Science undergraduate with a strong interest in Front-End Web Development and a passion for building clean, responsive, and user-friendly websites.
 
-Currently, two official plugins are available:
+💻 I am currently strengthening my skills in HTML, CSS, and JavaScript, applying them through real-world projects to improve both design structure and functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 I focus on writing structured, maintainable code and creating intuitive user interfaces that deliver smooth experiences across devices.
 
-## Expanding the ESLint configuration
+📚 I continuously work on improving my problem-solving skills and understanding of modern web development practices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 I am actively seeking Front-End Developer Intern / Fresher opportunities to gain hands-on industry experience, contribute to impactful projects, and grow as a professional developer.
