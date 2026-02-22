@@ -9,3 +9,17 @@
 📚 I continuously work on improving my problem-solving skills and understanding of modern web development practices.
 
 🚀 I am actively seeking Front-End Developer Intern / Fresher opportunities to gain hands-on industry experience, contribute to impactful projects, and grow as a professional developer.
+
+
+🌍 Connect With Me
+<p align="left">
+  <a href="https://instagram.com/kishan_hari_kishan2006">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/hari-kishan-m">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="harikishan9054@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
