@@ -1,4 +1,4 @@
-<img width="1876" height="978" alt="image" src="https://github.com/user-attachments/assets/61d6464d-96b5-4623-8acc-09e5d75cddff" />🎵 Music Application
+🎵 Music Application
 
 A modern, web-based music streaming application designed to deliver a seamless and interactive listening experience. The platform enables users to browse, manage, and play their favorite tracks through a clean and fully responsive interface.
 
