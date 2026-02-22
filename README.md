@@ -1,29 +1,37 @@
-💼 About Me
+<img width="1876" height="978" alt="image" src="https://github.com/user-attachments/assets/61d6464d-96b5-4623-8acc-09e5d75cddff" />🎵 Music Application
 
-🎓 I am a 3rd-year Computer Science undergraduate with a strong interest in Front-End Web Development and a passion for building clean, responsive, and user-friendly websites.
+A modern, web-based music streaming application designed to deliver a seamless and interactive listening experience. The platform enables users to browse, manage, and play their favorite tracks through a clean and fully responsive interface.
 
-💻 I am currently strengthening my skills in HTML, CSS, and JavaScript, applying them through real-world projects to improve both design structure and functionality.
+🚀 Live Demo
 
-🎨 I focus on writing structured, maintainable code and creating intuitive user interfaces that deliver smooth experiences across devices.
+🔗 Live Application: https://music-application-35415.web.app/
 
-📚 I continuously work on improving my problem-solving skills and understanding of modern web development practices.
+(Replace # with your deployed link)
 
-🚀 I am actively seeking Front-End Developer Intern / Fresher opportunities to gain hands-on industry experience, contribute to impactful projects, and grow as a professional developer.
+✨ Key Features
 
+🎧 Interactive audio controls (Play, Pause, Skip)
 
+🎼 Playlist management support
 
-## 🌐 Connect With Me
+🔁 Loop and Shuffle functionality
 
-<p align="left">
-  <a href="https://linkedin.com/in/hari-kishan-m">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/kishan_hari_kishan2006">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="harikishan9054@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" height="32"/>
-  </a>
-</p>
+📱 Fully responsive design (Mobile & Desktop compatible)
+
+🎨 Clean, modern, and user-friendly interface
+
+⚡ Optimized performance for smooth playback
+
+🛠️ Tech Stack
+
+Frontend: HTML5, CSS3, JavaScript
+Framework: ReactJS
+Media Storage: Cloudinary
+Hosting & Deployment: Firebase
+
+📸 Screenshots
+
+<img width="1880" height="979" alt="Screenshot 2026-02-22 223030" src="https://github.com/user-attachments/assets/36793c6a-c3b2-4bde-9065-272b937c5be5" />
+
+<img width="1876" height="978" alt="Screenshot 2026-02-22 223043" src="https://github.com/user-attachments/assets/a94956d3-1a46-4120-8773-731bb97e09c1" />
+
